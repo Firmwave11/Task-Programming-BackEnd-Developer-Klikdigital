@@ -1,1 +1,2 @@
-Database mysql and if you have error 404 not found. Pls use php artisan serve.
+Database mysql.
+if you have error for apache server "404 not found", pls use "php artisan serve".
